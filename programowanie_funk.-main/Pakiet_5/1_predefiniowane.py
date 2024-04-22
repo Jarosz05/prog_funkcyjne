@@ -1,0 +1,5 @@
+len('Python')  
+sorted([1, 2, 3])
+range(5)  
+abs(-10)  
+sum([1, 2, 3]) 
